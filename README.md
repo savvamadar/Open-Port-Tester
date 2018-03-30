@@ -1,6 +1,6 @@
 # Open Port Tester
 
-Description: This is a lightweight program to check if a certain port is open.
+Description: This is a lightweight program to check if a certain port is open. Exists because none of the online website solutions work for me.
 
 Usage:
 
